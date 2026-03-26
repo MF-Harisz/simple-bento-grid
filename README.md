@@ -1,6 +1,8 @@
 # Simple Bento Grid
 
 A clean and responsive bento grid layout for displaying skills with icons.
+## 🚀 Live Demo
+https://mf-harisz.github.io/simple-bento-grid/
 
 ## Features
 
